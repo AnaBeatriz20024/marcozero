@@ -1,0 +1,74 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos do corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background: #ff0084;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo das seções principais */
+main {
+    padding: 20px;
+}
+
+/* Estilos das seções */
+section {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: balc;
+}
+
+/* Estilo das imagens */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Estilo da lista */
+ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+/* Estilo do link */
+a {
+    color: #ff0084;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo do rodapé */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #ff0084;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
